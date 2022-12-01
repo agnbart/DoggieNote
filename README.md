@@ -22,10 +22,4 @@ Przy wprowadzaniu Course możliwość wyboru Competition z rozwijanej listy. (Li
   
 Przy wyborze [Competition WITH relations] -> [Details] - pojawia się błąd: "Object reference not set to an instance of an object" w [Views]/[CompetitionControllerWithRelations]/[Details.cshtml] linijka 28
 
-  
-**- Uwagi -**
-  
-We wszystkich przykładach, które widziałam dodanie virtual do encji wystarczyło, aby działało. https://www.youtube.com/watch?v=g25ap6i8VH0 <- w 5 minut zrobił bez zwytniego wysiłku dodając tylko virtual
-https://www.youtube.com/watch?v=VCTWqRGd8ms&t=1182s <- też tylko dodają virtual
-
-A u mnie nie działa
+ 
